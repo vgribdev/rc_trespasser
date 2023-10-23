@@ -1,0 +1,17 @@
+{
+    "elements": [
+        [
+            { "type": "line", "position": 1 },
+            { "type": "line", "position": 8 }
+        ],
+        [
+            { "type": "wall", "position": 9 },
+            { "type": "wall", "position": 11 }
+        ],
+        [
+            { "type": "line", "position": 5 },
+            { "type": "line", "position": 10 }
+        ]
+    ],
+    "goals": [3, 5, 8, 10]
+}
